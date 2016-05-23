@@ -1,0 +1,22 @@
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\bin\Debug\РисФигур.exe.config
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\obj\Debug\РисФигур.Form1.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\obj\Debug\РисФигур.Properties.Resources.resources
+C:\Users\Вик\AppData\Local\Temporary Projects\РисФигур\obj\Debug\РисФигур.csproj.GenerateResource.Cache
+d:\_CS_11\РисФигур\РисФигур\bin\Debug\РисФигур.exe.config
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.Form1.resources
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.Properties.Resources.resources
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.csproj.GenerateResource.Cache
+d:\_CS_11\РисФигур\РисФигур\bin\Debug\РисФигур.exe
+d:\_CS_11\РисФигур\РисФигур\bin\Debug\РисФигур.pdb
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.exe
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.pdb
+d:\_CS_11\РисФигур\РисФигур\obj\Debug\РисФигур.csprojResolveAssemblyReference.cache
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\bin\Debug\РисФигур.exe.config
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\obj\Debug\РисФигур.exe
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\obj\Debug\РисФигур.pdb
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\bin\Debug\РисФигур.exe
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\bin\Debug\РисФигур.pdb
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\obj\Debug\РисФигур.csprojResolveAssemblyReference.cache
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\obj\Debug\РисФигур.Form1.resources
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\obj\Debug\РисФигур.Properties.Resources.resources
+D:\Tutorials\C# and SQL books\В.В. Зиборов Visual С# 2012 на примерах + CD\CD\РисФигур\РисФигур\obj\Debug\РисФигур.csproj.GenerateResource.Cache
